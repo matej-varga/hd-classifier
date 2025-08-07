@@ -10,11 +10,12 @@ Deep Convolutional Neural Network (DenseNet121) to classify Hirschsprung Disease
 ├── model/
 │   └── hd_classifier.h5
 ├── notebook/
-│   └── run_classification.ipynb
+│   └── run_hd_classification.ipynb
 ├── data/
 │   ├── positive/    # AP images with confirmed HD
 │   └── negative/    # AP images without HD
 └── README.md
+└── LICENSE
 ```
 
 ### model/
