@@ -1,4 +1,4 @@
-# Hirschsprung Disease Classification CNN
+# Hirschsprung Disease Classification DCNN
 
 ## Project Overview
 
