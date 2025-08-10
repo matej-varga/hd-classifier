@@ -7,10 +7,9 @@ Deep Convolutional Neural Network (DenseNet121) to classify Hirschsprung Disease
 ## Contents
 
 ```
+├── run_hd_classification.ipynb    # script for running model inference
 ├── model/
 │   └── hd_classifier.h5
-├── notebook/
-│   └── run_hd_classification.ipynb
 ├── data/
 │   ├── positive/    # AP images with confirmed HD
 │   └── negative/    # AP images without HD
@@ -50,7 +49,7 @@ Deep Convolutional Neural Network (DenseNet121) to classify Hirschsprung Disease
 2. Launch the notebook:
 
    ```bash
-   jupyter lab notebook/run_classification.ipynb
+   jupyter lab run_classification.ipynb
    ```
 3. Follow the instructions within to load images, preprocess, and run inference.
 
